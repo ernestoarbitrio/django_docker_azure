@@ -76,10 +76,10 @@ WSGI_APPLICATION = 'django_docker_azure.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'sql_server.pyodbc',
-        'NAME': 'ireact_idi',
-        'USER': 'ernesto',
-        'PASSWORD': 'Giusi1312',
-        'HOST': 'pamaron.database.windows.net',
+        'NAME': '<your__Db_name>',
+        'USER': '<username>',
+        'PASSWORD': '<password>',
+        'HOST': '<azure_db_host>',
         'PORT':  '1433',
         'OPTIONS': {
             'driver': 'ODBC Driver 13 for SQL Server',
