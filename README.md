@@ -11,5 +11,5 @@ Azure Web Apps enables you to build and host web applications in the programming
 
 What I used is Web App on Linux (App Service by Microsoft) and Docker. Here a step-by-step guide try.
 
-[Here](#) the link with all the istructions.
+[Here](https://ernestoarbitrio.github.io/posts/deploy-a-django-application-connected-to-azure-sql-using-docker-and-azure-app-service.html) the link with all the istructions.
 
